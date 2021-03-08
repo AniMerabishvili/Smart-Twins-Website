@@ -1,0 +1,61 @@
+.bg-image {
+	background-image: url(../img/header-bg.png);
+}
+.logo {
+	width: 100px;
+}
+.nav-div {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+ul {
+	display: flex;
+}
+.li-a {
+	color: #2F365C;
+	font-family: "DejaVu Sans", sans-serif;
+	font-size: 21.2px;
+	margin-right: 30px;
+}
+.active {
+	color: #45CFEA;
+}
+.title-h1 {
+	color: #2F365C;
+	font-size: 70px;
+	font-family: 'Fredoka One', cursive;
+	margin-left: 132px;
+	margin-top: 196px;
+}
+.paragraph-1 {
+	font-family: "DejaVu Sans", sans-serif;
+	font-size: 30px;
+	color: #2F365C;
+	width: 450px;
+	margin-left: 132px;
+	margin-top: 30.58px;
+}
+.button1 {
+	background-color: #45CFEA;
+	border-radius: 30px;
+	width: 150px;
+	height: 58px;
+	color: white;
+	font-family: "DejaVu Sans", sans-serif;
+	border: none;
+	margin-left: 139px;
+	margin-top: 30.58px;
+	font-size: 15px;
+}
+.button1:focus {
+	outline: none;
+}
+.content-div {
+	display: flex;
+}
+.mainvector {
+	margin-left: 20px;
+	width: 690px;
+	margin-top: 117px;
+}
